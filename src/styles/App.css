@@ -1,0 +1,42 @@
+/* src/styles/App.css */
+
+/* 1) Reset y base para que #root ocupe toda la pantalla */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* 2) Layout principal: flex en columna para empujar el footer abajo */
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 3) Área de contenido entre Navbar y Footer */
+.content-area {
+  display: flex;
+  flex: 1;
+  align-items: stretch;
+  overflow: hidden;
+}
+
+/* 4) Main: ocupa todo el ancho ya que no hay sidebar */
+main {
+  flex: 1;
+  padding: 2rem;
+  background-color: #f9fbfd;
+  overflow-y: auto;
+  min-height: 0;
+  margin-left: 0; /* eliminado espacio del sidebar */
+}
+
+/* 5) Footer: permanece al fondo incluso con poco contenido */
+.footer {
+  background-color: #1e293b;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  flex-shrink: 0;
+}
