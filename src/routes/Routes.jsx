@@ -24,7 +24,7 @@
     <BrowserRouter>
       <Routes>
         <Route
-          path="/hola"
+          path="/"
           element={
             <Layout>
               <Index />
