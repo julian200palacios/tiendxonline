@@ -3,9 +3,8 @@ import React from 'react';
 const Index = () => {
   return (
     <div>
-      <h1>Bienvenido a la aplicación</h1>
-      <p>¡Por un nuevo futuro!</p>
-      <a href="/iniciar-sesion">Holi</a>
+      <h1>Darclick</h1>
+      <a href="/productos">click</a>
     </div>
   );
 };

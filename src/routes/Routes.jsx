@@ -2,6 +2,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "../components/pages/Index";
+import Productos from "../components/pages/Productos";
 import Navbar from "../components/layout/Navbar";
 
 /**
@@ -19,9 +20,6 @@ const Layout = ({ children }) => {
   );
 };
 
-/**
- * Componente principal de rutas: sólo la ruta raíz (Index)
- */
 const Rutas = () => (
   <BrowserRouter>
     <Routes>
@@ -30,6 +28,15 @@ const Rutas = () => (
         element={
           <Layout>
             <Index />
+          </Layout>
+        }
+      />
+
+         <Route
+        path="/productos"
+        element={
+          <Layout>
+            <Productos />
           </Layout>
         }
       />
