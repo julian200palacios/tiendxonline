@@ -4,10 +4,11 @@
     "producto": "Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
     "tipo_producto": "Pantalón",
     "categoria_pantalon": "Jeans",
-    "publico_orientado": "Hombres",
+    "publico_orientado": "Mujeres",
     "marca": "Zara",
     "precio": 63671,
     "porcentaje_descuento": "15%",
+    "inventario": "0",
     "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
     "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
     "imagenes": {
@@ -99,6 +100,1984 @@
     "marca": "Zara",
     "precio": 63671,
     "porcentaje_descuento": "15%",
+    "inventario": "0",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  },
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  },
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  },
+
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  },
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  },
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
+    "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
+    "imagenes": {
+      "foto1": "/img-pantalones/sz25062459655133546/sz25062459655133546_imagen1.jpg",
+      "foto2": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen2.jpg",
+      "foto3": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen3.jpg",
+      "foto4": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen4.jpg",
+      "foto5": "/img-pantalones/sz25062459655133547/sz25062459655133547_imagen5.jpg"
+    },
+    "medidas": {
+      "XS": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "S": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "M": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "L": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      },
+      "XXL": {
+        "Circunferencia de la cintura": "",
+        "Largo": "",
+        "Entrepierna": "",
+        "Contorno cintura": "",
+        "Contorno caderas": "",
+        "Muslo": ""
+      }
+    },
+    "detalles": {
+      "Forro": "Sin Forro",
+      "Festivales": "Navideño, Halloween, Día del Maestro, Festival de primavera, Temporada de graduación/comienzos",
+      "Ocasión": "Vacaciones, Oficina, viaje, fiesta del té",
+      "Detalles": "Botón, Bolsillo, Cremallera",
+      "Bolsillo": "Sí",
+      "Forrado Para Aportar Calidez": "No",
+      "Color": "Rosa Fucsia",
+      "Tipo": "Pierna ancha",
+      "Línea del Talle de la Cintura": "Natural",
+      "Longitud": "Largo",
+      "Tipo de ajuste": "Regular",
+      "Elasticidad de la tela": "No-Elástico",
+      "Material": "Tela tejida",
+      "Composición": "95% Poliéster, 5% Elastano",
+      "Instrucciones de Cuidado": "lavadora o limpieza en seco profesional",
+      "Transparente": "No"
+    }
+  }
+  ,
+
+   {
+    "id_producto": "sz25062459655133546",
+    "producto": "6Pantalones holgados de cintura alta con pliegues, aptos para el trabajo y el uso casual, primavera/verano",
+    "tipo_producto": "Pantalón",
+    "categoria_pantalon": "Jeans",
+    "publico_orientado": "Hombres",
+    "marca": "Zara",
+    "precio": 63671,
+    "porcentaje_descuento": "15%",
+    "inventario": "5",
     "medidas_disponibles": ["XS", "S", "M", "L", "XL", "XXL"],
     "colores_disponibles": ["Rosado", "Negro", "Azul", "Dorado"],
     "imagenes": {

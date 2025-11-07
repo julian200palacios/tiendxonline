@@ -257,7 +257,7 @@ const Index = () => {
 
   <div className="best-sellers-grid">
     {/* Card 1 */}
-    <a href="/productos/1" className="product-card">
+    <a href="/listado_pantalones" className="product-card">
       <span className="tag tag--pink">Save $5.50</span>
       <img src={forma1} alt="Producto 1" className="product-img" />
       <h4 className="product-name">Cherry Flambé Matte Lip Whip</h4>
