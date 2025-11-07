@@ -3,7 +3,7 @@ import pantalonesData from "../../../json/json-pantalones/pantalones.json";
 import "../../../styles/ListadoPantalones.css";
 
 const ListadoPantalones = () => {
-  // Si el JSON no es un array, lo convertimos en uno
+  // Aseguramos que pantalonesData sea un array
   const listaPantalones = Array.isArray(pantalonesData)
     ? pantalonesData
     : [pantalonesData];
@@ -11,6 +11,7 @@ const ListadoPantalones = () => {
   return (
     <div className="contenedor-listado">
       <h1 className="titulo-listado">Pantalones</h1>
+
       <div className="grid-pantalones">
         {listaPantalones && listaPantalones.length > 0 ? (
           listaPantalones.map((pantalon) => (
