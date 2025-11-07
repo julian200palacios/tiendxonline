@@ -82,70 +82,70 @@ const Navbar = () => {
   return (
     <>
       {/* Barra de anuncios */}
-      <div className="announcement-bar">
-        <div className="announcement-content">
-          <div className="announcement-text">
+      <div className="announcement-uno-navbar">
+        <div className="announcement-uno-navbar-content">
+          <div className="announcement-uno-navbar-text">
             {announcements[currentAnnouncement]}
           </div>
         </div>
       </div>
 
       {/* Navbar principal */}
-      <nav className="navbar">
-        <div className="navbar-content">
-          <div className="navbar-main">
-            <div className="navbar-logo">
+      <nav className="uno-navbar">
+        <div className="uno-navbar-content">
+          <div className="uno-navbar-main">
+            <div className="uno-navbar-logo">
               <Link to="/" onClick={closeMobileMenu}>ti3ndx 0nline</Link>
             </div>
 
-            <div className="navbar-toggle" onClick={toggleMenu}>
+            <div className="uno-navbar-toggle" onClick={toggleMenu}>
               ☰
             </div>
           </div>
 
-          <div className={`navbar-links ${menuOpen ? "open" : ""}`}>
-            <div className="nav-item">
-              <Link to="/" className="nav-link" onClick={closeMobileMenu}>
+          <div className={`uno-navbar-links ${menuOpen ? "uno-navbar-open" : ""}`}>
+            <div className="uno-navbar-item">
+              <Link to="/" className="uno-navbar-link" onClick={closeMobileMenu}>
                 Inicio
               </Link>
             </div>
 
-            <div className="nav-item">
-              <Link to="/" className="nav-link" onClick={closeMobileMenu}>
+            <div className="uno-navbar-item">
+              <Link to="/" className="uno-navbar-link" onClick={closeMobileMenu}>
                 ¡Ofertas!
               </Link>
             </div>
 
             {/* Enlace de WhatsApp */}
-            <div className="nav-item">
+            <div className="uno-navbar-item">
               <span 
-                className="nav-link whatsapp-link"
+                className="uno-navbar-link uno-navbar-whatsapp-link"
                 onClick={openWhatsApp}
               >
-                <span className="whatsapp-icon">💬</span>
+                <span className="uno-navbar-whatsapp-icon">💬</span>
                 WhatsApp
               </span>
             </div>
             
             {/* Dropdown Hombres */}
             <div 
-              className="dropdown-container nav-item"
+              className="uno-navbar-dropdown-container uno-navbar-item"
               onMouseEnter={() => handleMouseEnter('hombres')}
               onMouseLeave={handleMouseLeave}
             >
               <span 
-                className={`dropdown-trigger nav-link ${mobileDropdown === 'hombres' ? 'active' : ''}`}
+                className={`uno-navbar-dropdown-trigger uno-navbar-link ${mobileDropdown === 'hombres' ? 'uno-navbar-active' : ''}`}
                 onClick={() => handleMobileDropdown('hombres')}
               >
                 Hombres
-                <span className="dropdown-arrow">▼</span>
+                <span className="uno-navbar-dropdown-arrow">▼</span>
               </span>
-              <div className={`dropdown-menu ${activeDropdown === 'hombres' ? 'active' : ''}`}>
+              <div className={`uno-navbar-dropdown-menu ${activeDropdown === 'hombres' ? 'uno-navbar-active' : ''}`}>
                 {dropdownItems.hombres.map((item, index) => (
                   <Link 
                     key={index} 
                     to={item.path} 
-                    className="dropdown-item"
+                    className="uno-navbar-dropdown-item"
                     onClick={closeMobileMenu}
                   >
                     {item.name}
@@ -156,23 +156,23 @@ const Navbar = () => {
 
             {/* Dropdown Mujeres */}
             <div 
-              className="dropdown-container nav-item"
+              className="uno-navbar-dropdown-container uno-navbar-item"
               onMouseEnter={() => handleMouseEnter('mujeres')}
               onMouseLeave={handleMouseLeave}
             >
               <span 
-                className={`dropdown-trigger nav-link ${mobileDropdown === 'mujeres' ? 'active' : ''}`}
+                className={`uno-navbar-dropdown-trigger uno-navbar-link ${mobileDropdown === 'mujeres' ? 'uno-navbar-active' : ''}`}
                 onClick={() => handleMobileDropdown('mujeres')}
               >
                 Mujeres
-                <span className="dropdown-arrow">▼</span>
+                <span className="uno-navbar-dropdown-arrow">▼</span>
               </span>
-              <div className={`dropdown-menu ${activeDropdown === 'mujeres' ? 'active' : ''}`}>
+              <div className={`uno-navbar-dropdown-menu ${activeDropdown === 'mujeres' ? 'uno-navbar-active' : ''}`}>
                 {dropdownItems.mujeres.map((item, index) => (
                   <Link 
                     key={index} 
                     to={item.path} 
-                    className="dropdown-item"
+                    className="uno-navbar-dropdown-item"
                     onClick={closeMobileMenu}
                   >
                     {item.name}
@@ -183,23 +183,23 @@ const Navbar = () => {
 
             {/* Dropdown Niños */}
             <div 
-              className="dropdown-container nav-item"
+              className="uno-navbar-dropdown-container uno-navbar-item"
               onMouseEnter={() => handleMouseEnter('niños')}
               onMouseLeave={handleMouseLeave}
             >
               <span 
-                className={`dropdown-trigger nav-link ${mobileDropdown === 'niños' ? 'active' : ''}`}
+                className={`uno-navbar-dropdown-trigger uno-navbar-link ${mobileDropdown === 'niños' ? 'uno-navbar-active' : ''}`}
                 onClick={() => handleMobileDropdown('niños')}
               >
                 Niños
-                <span className="dropdown-arrow">▼</span>
+                <span className="uno-navbar-dropdown-arrow">▼</span>
               </span>
-              <div className={`dropdown-menu ${activeDropdown === 'niños' ? 'active' : ''}`}>
+              <div className={`uno-navbar-dropdown-menu ${activeDropdown === 'niños' ? 'uno-navbar-active' : ''}`}>
                 {dropdownItems.niños.map((item, index) => (
                   <Link 
                     key={index} 
                     to={item.path} 
-                    className="dropdown-item"
+                    className="uno-navbar-dropdown-item"
                     onClick={closeMobileMenu}
                   >
                     {item.name}

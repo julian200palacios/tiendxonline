@@ -1,7 +1,7 @@
   // src/routes/Routes.jsx
   import React from "react";
   import { BrowserRouter, Routes, Route } from "react-router-dom";
-  import Index from "../components/pages/Index";
+  import Index from "../components/pages/inicio";
   import Productos from "../components/pages/Productos";
   import Navbar from "../components/layout/Navbar";
 
